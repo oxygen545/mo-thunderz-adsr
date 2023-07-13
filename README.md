@@ -1,3 +1,7 @@
+#DISCLAIMER
+Below is the original README.md
+I'm just modifying this for my own use.
+
 # ADSR
 ADSR based on lookup table for Arduino Due (and other Arduinos). Advantages of this implementation are that it is extremely light-weight, has a differential profile and that the attack, decay and release times can be precisely controlled.
 
@@ -20,3 +24,5 @@ NOTE: you can change the shape of the ADSR by changing the ATTACK_ALPHA and ATTA
 Have fun ;-)
 
 mo thunderz
+
+--- Oxygen545
